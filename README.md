@@ -1,9 +1,9 @@
 # 차례
 
-### 1장. 들어가기
+### [1장](https://github.com/nohdonggyeong/study-2025-effective-java/blob/main/1%EC%9E%A5/1%EC%9E%A5.md). 들어가기
 
-### 2장. 객체 생성과 파괴
-> 아이템 1. 생성자 대신 정적 팩터리 메서드를 고려하라   
+### [2장](https://github.com/nohdonggyeong/study-2025-effective-java/blob/main/2%EC%9E%A5/2%EC%9E%A5.md). 객체 생성과 파괴
+> [아이템 1](https://github.com/nohdonggyeong/study-2025-effective-java/blob/main/2%EC%9E%A5/%EC%95%84%EC%9D%B4%ED%85%9C_1.md). 생성자 대신 정적 팩터리 메서드를 고려하라   
 > 아이템 2. 생성자에 매개변수가 많다면 빌더를 고려하라   
 > 아이템 3. private 생성자나 열거 타입으로 싱글턴임을 보증하라   
 > 아이템 4. 인스턴스화를 막으려거든 private 생성자를 사용하라   
